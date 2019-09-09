@@ -1,2 +1,2 @@
 # Employee-Pay-Assignment-using-Python-and-Notepad-
-#Homework assignemnt for Advanced Data Analytics Bootcamp on using data dictionaries, Notepad++, and Python scripts.
+Advanced Data Analytics Bootcamp Spring 2019 Homework assignment using data dictionaries, Notepad++, and Python scripts.
